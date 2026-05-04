@@ -4,7 +4,7 @@
   <circle cx="76" cy="76" r="10" fill="#F87171"/>
   <circle cx="108" cy="76" r="10" fill="#FBBF24"/>
   <circle cx="140" cy="76" r="10" fill="#34D399"/>
-  <text x="176" y="84" fill="#9CA3AF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="22">ai-agent-starter demo preview</text>
+  <text x="176" y="84" fill="#9CA3AF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="22">agent-starter-kit demo preview</text>
 
   <text x="72" y="142" fill="#34D399" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="26">$ npm run demo:claude</text>
   <text x="72" y="190" fill="#E5E7EB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="22">&gt; provider: claude-opus-4-6</text>

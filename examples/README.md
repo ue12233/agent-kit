@@ -54,7 +54,7 @@ npm run demo:openai
 
 - the MCP path is real, not mocked
 - provider switching is simple
-- this starter can grow from a docs-first repo into a real integration repo
+- this starter can grow into a real integration repo without much extra setup
 
 ### Common issues
 

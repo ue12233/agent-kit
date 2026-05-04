@@ -44,7 +44,7 @@ function collectText(content: Array<{ type: string; text?: string }>): string {
 }
 
 async function readFileViaMcp(targetFile: string, mcpRoot: string): Promise<string> {
-  const client = new Client({ name: "ai-agent-starter-demo", version: "0.2.0" });
+  const client = new Client({ name: "agent-starter-kit-demo", version: "0.2.1" });
   const transport = new StdioClientTransport({
     command: process.platform === "win32" ? "npx.cmd" : "npx",
     args: ["-y", "@modelcontextprotocol/server-filesystem", mcpRoot],
